@@ -1,4 +1,4 @@
-<h1>SvelteKit SSR Example</h1>
+<h1>Timeweb Cloud + SvelteKit SSR = ❤️</h1>
 <p>Репозиторий: <strong>app-example-sveltekit-ssr</strong></p>
 <p>Это SSR-проект на SvelteKit с Node adapter.</p>
 <ul>
